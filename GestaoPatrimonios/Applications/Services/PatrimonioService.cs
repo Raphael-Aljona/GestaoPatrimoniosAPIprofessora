@@ -31,7 +31,11 @@ namespace GestaoPatrimonios.Applications.Services
                 Valor = patrimonio.Valor,
                 Imagem = patrimonio.Imagem,
                 LocalizacaoID = patrimonio.LocalizacaoID,
-                StatusPatrimonioID = patrimonio.StatusPatrimonioID
+                StatusPatrimonioID = patrimonio.StatusPatrimonioID,
+
+                DataTransferencia = patrimonio.LogPatrimonio
+                    .OrderByDescending(log => log.DataTransferencia)
+                    .FirstOrDefault()?.DataTransferencia
             }).ToList();
 
             return patrimoniosDto;
@@ -54,7 +58,11 @@ namespace GestaoPatrimonios.Applications.Services
                 Valor = patrimonio.Valor,
                 Imagem = patrimonio.Imagem,
                 LocalizacaoID = patrimonio.LocalizacaoID,
-                StatusPatrimonioID = patrimonio.StatusPatrimonioID
+                StatusPatrimonioID = patrimonio.StatusPatrimonioID,
+
+                DataTransferencia = patrimonio.LogPatrimonio
+                    .OrderByDescending(log => log.DataTransferencia)
+                    .FirstOrDefault()?.DataTransferencia
             };
 
             return patrimonioDto;

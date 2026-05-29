@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\53789144851\\desktop\\projects\\gest\u00E3opatrimoniosaula\\gestaopatrimonios\\gestaopatrimonios\\repositories\\localizacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\repositories\\localizacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\53789144851\\desktop\\projects\\gest\u00E3opatrimoniosaula\\gestaopatrimonios\\gestaopatrimonios\\repositories\\patrimoniorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\repositories\\patrimoniorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\53789144851\\desktop\\projects\\gest\u00E3opatrimoniosaula\\gestaopatrimonios\\gestaopatrimonios\\applications\\services\\patrimonioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\applications\\services\\patrimonioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\53789144851\\desktop\\projects\\gest\u00E3opatrimoniosaula\\gestaopatrimonios\\gestaopatrimonios\\dtos\\patrimoniodto\\listarpatrimoniodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\dtos\\patrimoniodto\\listarpatrimoniodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\53789144851\\desktop\\projects\\gest\u00E3opatrimoniosaula\\gestaopatrimonios\\gestaopatrimonios\\applications\\services\\localizacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\applications\\services\\localizacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\53789144851\\desktop\\projects\\gest\u00E3opatrimoniosaula\\gestaopatrimonios\\gestaopatrimonios\\repositories\\localizacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\repositories\\localizacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\53789144851\\desktop\\projects\\gest\u00E3opatrimoniosaula\\gestaopatrimonios\\gestaopatrimonios\\dtos\\localizacaodto\\listarlocalizacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\53789144851\\desktop\\projects\\gest\u00E3opatrimoniosaula\\gestaopatrimonios\\gestaopatrimonios\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\53789144851\\desktop\\projects\\gest\u00E3opatrimoniosaula\\gestaopatrimonios\\gestaopatrimonios\\repositories\\patrimoniorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\repositories\\patrimoniorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\53789144851\\desktop\\projects\\gest\u00E3opatrimoniosaula\\gestaopatrimonios\\gestaopatrimonios\\applications\\services\\patrimonioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\applications\\services\\patrimonioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\53789144851\\desktop\\projects\\gest\u00E3opatrimoniosaula\\gestaopatrimonios\\gestaopatrimonios\\interfaces\\ipatrimoniorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -141,10 +145,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\53789144851\\desktop\\projects\\gest\u00E3opatrimoniosaula\\gestaopatrimonios\\gestaopatrimonios\\applications\\mapeamentos\\importarpatrimoniocsvmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\applications\\mapeamentos\\importarpatrimoniocsvmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\53789144851\\desktop\\projects\\gest\u00E3opatrimoniosaula\\gestaopatrimonios\\gestaopatrimonios\\dtos\\patrimoniodto\\listarpatrimoniodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|solutionrelative:gestaopatrimonios\\dtos\\patrimoniodto\\listarpatrimoniodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{769C1085-4D55-4173-831C-DA8276FFFE99}|GestaoPatrimonios\\GestaoPatrimonios.csproj|c:\\users\\53789144851\\desktop\\projects\\gest\u00E3opatrimoniosaula\\gestaopatrimonios\\gestaopatrimonios\\dtos\\patrimoniodto\\importarpatrimoniocsvdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -429,42 +429,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "PatrimonioService.cs",
-              "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Applications\\Services\\PatrimonioService.cs",
-              "RelativeDocumentMoniker": "GestaoPatrimonios\\Applications\\Services\\PatrimonioService.cs",
-              "ToolTip": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Applications\\Services\\PatrimonioService.cs",
-              "RelativeToolTip": "GestaoPatrimonios\\Applications\\Services\\PatrimonioService.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAApwEUAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T11:18:29.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Program.cs",
-              "RelativeDocumentMoniker": "GestaoPatrimonios\\Program.cs",
-              "ToolTip": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Program.cs",
-              "RelativeToolTip": "GestaoPatrimonios\\Program.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAAAK0AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T11:18:29.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\.gitignore",
-              "RelativeDocumentMoniker": "GestaoPatrimonios\\.gitignore",
-              "ToolTip": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\.gitignore",
-              "RelativeToolTip": "GestaoPatrimonios\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-25T11:18:29.411Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": ".env.example",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\.env.example",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\.env.example",
@@ -476,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "CargoRepository.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Repositories\\CargoRepository.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Repositories\\CargoRepository.cs",
@@ -488,33 +452,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "LocalizacaoRepository.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Repositories\\LocalizacaoRepository.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Repositories\\LocalizacaoRepository.cs",
               "ToolTip": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Repositories\\LocalizacaoRepository.cs",
               "RelativeToolTip": "GestaoPatrimonios\\Repositories\\LocalizacaoRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBMAAABkAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T11:18:29.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LocalizacaoService.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Applications\\Services\\LocalizacaoService.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Applications\\Services\\LocalizacaoService.cs",
               "ToolTip": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Applications\\Services\\LocalizacaoService.cs",
               "RelativeToolTip": "GestaoPatrimonios\\Applications\\Services\\LocalizacaoService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAkwB4AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAIA5wDUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T11:18:29.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ListarLocalizacaoDto.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\DTOs\\LocalizacaoDto\\ListarLocalizacaoDto.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\DTOs\\LocalizacaoDto\\ListarLocalizacaoDto.cs",
@@ -522,24 +486,74 @@
               "RelativeToolTip": "GestaoPatrimonios\\DTOs\\LocalizacaoDto\\ListarLocalizacaoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T11:18:29.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T11:18:29.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "PatrimonioRepository.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Repositories\\PatrimonioRepository.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Repositories\\PatrimonioRepository.cs",
               "ToolTip": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Repositories\\PatrimonioRepository.cs",
               "RelativeToolTip": "GestaoPatrimonios\\Repositories\\PatrimonioRepository.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAwwDQAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBIAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T11:18:29.141Z"
+              "WhenOpened": "2026-05-25T11:18:29.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
+              "Title": "ListarPatrimonioDto.cs",
+              "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\DTOs\\PatrimonioDto\\ListarPatrimonioDto.cs",
+              "RelativeDocumentMoniker": "GestaoPatrimonios\\DTOs\\PatrimonioDto\\ListarPatrimonioDto.cs",
+              "ToolTip": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\DTOs\\PatrimonioDto\\ListarPatrimonioDto.cs",
+              "RelativeToolTip": "GestaoPatrimonios\\DTOs\\PatrimonioDto\\ListarPatrimonioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:18:29.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatrimonioService.cs",
+              "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Applications\\Services\\PatrimonioService.cs",
+              "RelativeDocumentMoniker": "GestaoPatrimonios\\Applications\\Services\\PatrimonioService.cs",
+              "ToolTip": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Applications\\Services\\PatrimonioService.cs",
+              "RelativeToolTip": "GestaoPatrimonios\\Applications\\Services\\PatrimonioService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:18:29.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\.gitignore",
+              "RelativeDocumentMoniker": "GestaoPatrimonios\\.gitignore",
+              "ToolTip": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\.gitignore",
+              "RelativeToolTip": "GestaoPatrimonios\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-25T11:18:29.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Program.cs",
+              "RelativeDocumentMoniker": "GestaoPatrimonios\\Program.cs",
+              "ToolTip": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Program.cs",
+              "RelativeToolTip": "GestaoPatrimonios\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAK0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:18:29.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Patrimonio.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Domains\\Patrimonio.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Domains\\Patrimonio.cs",
@@ -551,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "LocalizacaoController.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Controllers\\LocalizacaoController.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Controllers\\LocalizacaoController.cs",
@@ -563,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "UsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Repositories\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Repositories\\UsuarioRepository.cs",
@@ -575,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\.env",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\.env",
@@ -587,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Controllers\\UsuarioController.cs",
@@ -599,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IPatrimonioRepository.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Interfaces\\IPatrimonioRepository.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Interfaces\\IPatrimonioRepository.cs",
@@ -611,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "GestaoPatrimoniosContext.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Contexts\\GestaoPatrimoniosContext.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Contexts\\GestaoPatrimoniosContext.cs",
@@ -623,7 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "UsuarioService.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Applications\\Services\\UsuarioService.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Applications\\Services\\UsuarioService.cs",
@@ -635,7 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ILocalizacaoRepository.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Interfaces\\ILocalizacaoRepository.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Interfaces\\ILocalizacaoRepository.cs",
@@ -647,7 +661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "CriarLocalizacaoDto.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\DTOs\\LocalizacaoDto\\CriarLocalizacaoDto.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\DTOs\\LocalizacaoDto\\CriarLocalizacaoDto.cs",
@@ -659,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "IUsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Interfaces\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Interfaces\\IUsuarioRepository.cs",
@@ -671,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "EnderecoService.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Applications\\Services\\EnderecoService.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Applications\\Services\\EnderecoService.cs",
@@ -683,7 +697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "CidadeService.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Applications\\Services\\CidadeService.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Applications\\Services\\CidadeService.cs",
@@ -695,7 +709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "BairroService.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Applications\\Services\\BairroService.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Applications\\Services\\BairroService.cs",
@@ -707,7 +721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "EnderecoController.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Controllers\\EnderecoController.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Controllers\\EnderecoController.cs",
@@ -719,7 +733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "CidadeController.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Controllers\\CidadeController.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Controllers\\CidadeController.cs",
@@ -731,7 +745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "BairroController.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Controllers\\BairroController.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Controllers\\BairroController.cs",
@@ -755,7 +769,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "EnderecoRepository.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Repositories\\EnderecoRepository.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Repositories\\EnderecoRepository.cs",
@@ -767,7 +781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "BairroRepository.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Repositories\\BairroRepository.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Repositories\\BairroRepository.cs",
@@ -779,7 +793,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "CidadeRepository.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Repositories\\CidadeRepository.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Repositories\\CidadeRepository.cs",
@@ -791,7 +805,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "IEnderecoRepository.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Interfaces\\IEnderecoRepository.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Interfaces\\IEnderecoRepository.cs",
@@ -803,7 +817,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "IBairroRepository.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Interfaces\\IBairroRepository.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Interfaces\\IBairroRepository.cs",
@@ -815,7 +829,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "ICidadeRepository.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Interfaces\\ICidadeRepository.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Interfaces\\ICidadeRepository.cs",
@@ -827,7 +841,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "ListarUsuarioDto.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\DTOs\\UsuarioDto\\ListarUsuarioDto.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\DTOs\\UsuarioDto\\ListarUsuarioDto.cs",
@@ -839,7 +853,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "CriarUsuarioDto.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\DTOs\\UsuarioDto\\CriarUsuarioDto.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\DTOs\\UsuarioDto\\CriarUsuarioDto.cs",
@@ -851,7 +865,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "ImportarPatrimonioCsvMap.cs",
               "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\Applications\\Mapeamentos\\ImportarPatrimonioCsvMap.cs",
               "RelativeDocumentMoniker": "GestaoPatrimonios\\Applications\\Mapeamentos\\ImportarPatrimonioCsvMap.cs",
@@ -908,18 +922,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T11:18:29.145Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ListarPatrimonioDto.cs",
-              "DocumentMoniker": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\DTOs\\PatrimonioDto\\ListarPatrimonioDto.cs",
-              "RelativeDocumentMoniker": "GestaoPatrimonios\\DTOs\\PatrimonioDto\\ListarPatrimonioDto.cs",
-              "ToolTip": "C:\\Users\\53789144851\\Desktop\\Projects\\Gest\u00E3oPatrimoniosAula\\GestaoPatrimonios\\GestaoPatrimonios\\DTOs\\PatrimonioDto\\ListarPatrimonioDto.cs",
-              "RelativeToolTip": "GestaoPatrimonios\\DTOs\\PatrimonioDto\\ListarPatrimonioDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T11:18:29.146Z"
             },
             {
               "$type": "Document",
